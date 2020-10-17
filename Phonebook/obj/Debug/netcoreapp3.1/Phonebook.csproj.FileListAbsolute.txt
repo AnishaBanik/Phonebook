@@ -1,0 +1,13 @@
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.exe
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.deps.json
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.runtimeconfig.json
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.runtimeconfig.dev.json
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.dll
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.pdb
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.csprojAssemblyReference.cache
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.AssemblyInfoInputs.cache
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.AssemblyInfo.cs
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.dll
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.pdb
+C:\Users\Anisha Banik\source\repos\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.genruntimeconfig.cache
